@@ -1,0 +1,19 @@
+{
+  "name": "excel_process",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "volta": {
+    "node": "12.18.3",
+    "yarn": "1.22.4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}

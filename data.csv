@@ -1,0 +1,4 @@
+id, name, price, currency, stock, sold, canPerish
+asd11, milk, 10.20, bs, 100, 50, true
+asd12, bread, 0.50, bs, 200, 87, false
+asd13, cheese, 50.0, bs, 66, 10, true
